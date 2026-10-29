@@ -128,6 +128,7 @@ Skills for working with complex file formats:
 | **[Expo Skills](https://github.com/expo/skills)** | Official skills by the Expo team for developing Expo apps |
 | **[shadcn/ui](https://ui.shadcn.com/docs/skills)** | Give Claude Code context on shadcn components as well as pattern enforcement |
 | **[get-shit-done](https://github.com/gsd-build/get-shit-done)** | Lightweight meta-prompting, context engineering, and spec-driven development system for Claude Code by TÂCHES |
+| **[game-re-skills](https://github.com/juzorei/game-re-skills)** | Game reverse engineering: Cheat Engine pointer chains, AOB signatures that survive game patches, Unreal GObjects/GNames/GWorld and Unity IL2CPP offsets, read-only memory readers, and patch-day recovery — verified by the bundled `sigtool` CLI |
 
 _More community skills coming soon! Submit a PR to add your skill._
 
